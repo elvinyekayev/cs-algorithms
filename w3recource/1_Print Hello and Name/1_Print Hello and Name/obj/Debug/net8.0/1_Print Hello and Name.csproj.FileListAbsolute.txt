@@ -1,0 +1,15 @@
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/bin/Debug/net8.0/1_Print Hello and Name
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/bin/Debug/net8.0/1_Print Hello and Name.deps.json
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/bin/Debug/net8.0/1_Print Hello and Name.runtimeconfig.json
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/bin/Debug/net8.0/1_Print Hello and Name.dll
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/bin/Debug/net8.0/1_Print Hello and Name.pdb
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/obj/Debug/net8.0/1_Print Hello and Name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/obj/Debug/net8.0/1_Print Hello and Name.AssemblyInfoInputs.cache
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/obj/Debug/net8.0/1_Print Hello and Name.AssemblyInfo.cs
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/obj/Debug/net8.0/1_Print Hello and Name.csproj.CoreCompileInputs.cache
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/obj/Debug/net8.0/1_Print Hello and Name.sourcelink.json
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/obj/Debug/net8.0/1_Print Hello and Name.dll
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/obj/Debug/net8.0/refint/1_Print Hello and Name.dll
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/obj/Debug/net8.0/1_Print Hello and Name.pdb
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/obj/Debug/net8.0/1_Print Hello and Name.genruntimeconfig.cache
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/1_Print Hello and Name/1_Print Hello and Name/obj/Debug/net8.0/ref/1_Print Hello and Name.dll
