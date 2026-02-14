@@ -1,0 +1,15 @@
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /bin/Debug/net8.0/3_Divide_Two_Numbers
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /bin/Debug/net8.0/3_Divide_Two_Numbers.deps.json
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /bin/Debug/net8.0/3_Divide_Two_Numbers.runtimeconfig.json
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /bin/Debug/net8.0/3_Divide_Two_Numbers.dll
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /bin/Debug/net8.0/3_Divide_Two_Numbers.pdb
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /obj/Debug/net8.0/3_Divide_Two_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /obj/Debug/net8.0/3_Divide_Two_Numbers.AssemblyInfoInputs.cache
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /obj/Debug/net8.0/3_Divide_Two_Numbers.AssemblyInfo.cs
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /obj/Debug/net8.0/3_Divide_Two_Numbers.csproj.CoreCompileInputs.cache
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /obj/Debug/net8.0/3_Divide_Two_Numbers.sourcelink.json
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /obj/Debug/net8.0/3_Divide_Two_Numbers.dll
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /obj/Debug/net8.0/refint/3_Divide_Two_Numbers.dll
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /obj/Debug/net8.0/3_Divide_Two_Numbers.pdb
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /obj/Debug/net8.0/3_Divide_Two_Numbers.genruntimeconfig.cache
+/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/3_Divide_Two_Numbers  /3_Divide_Two_Numbers  /obj/Debug/net8.0/ref/3_Divide_Two_Numbers.dll
