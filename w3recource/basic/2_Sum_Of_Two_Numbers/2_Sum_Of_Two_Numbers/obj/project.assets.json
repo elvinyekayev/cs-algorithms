@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/2_Sum of Two Numbers  /2_Sum of Two Numbers  /2_Sum of Two Numbers.csproj",
-      "projectName": "2_Sum of Two Numbers",
-      "projectPath": "/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/2_Sum of Two Numbers  /2_Sum of Two Numbers  /2_Sum of Two Numbers.csproj",
+      "projectUniqueName": "/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/2_Sum_Of_Two_Numbers/2_Sum_Of_Two_Numbers/2_Sum_Of_Two_Numbers.csproj",
+      "projectName": "2_Sum_Of_Two_Numbers",
+      "projectPath": "/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/2_Sum_Of_Two_Numbers/2_Sum_Of_Two_Numbers/2_Sum_Of_Two_Numbers.csproj",
       "packagesPath": "/Users/elvinyekayev/.nuget/packages/",
-      "outputPath": "/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/2_Sum of Two Numbers  /2_Sum of Two Numbers  /obj/",
+      "outputPath": "/Users/elvinyekayev/Documents/workspace/algorithms_practice/cs-algorithms/w3recource/basic/2_Sum_Of_Two_Numbers/2_Sum_Of_Two_Numbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/elvinyekayev/.nuget/NuGet/NuGet.Config"
