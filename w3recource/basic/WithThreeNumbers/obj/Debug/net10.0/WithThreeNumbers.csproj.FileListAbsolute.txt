@@ -1,0 +1,15 @@
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\bin\Debug\net10.0\WithThreeNumbers.exe
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\bin\Debug\net10.0\WithThreeNumbers.deps.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\bin\Debug\net10.0\WithThreeNumbers.runtimeconfig.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\bin\Debug\net10.0\WithThreeNumbers.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\bin\Debug\net10.0\WithThreeNumbers.pdb
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\obj\Debug\net10.0\WithThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\obj\Debug\net10.0\WithThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\obj\Debug\net10.0\WithThreeNumbers.AssemblyInfo.cs
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\obj\Debug\net10.0\WithThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\obj\Debug\net10.0\WithThreeNumbers.sourcelink.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\obj\Debug\net10.0\WithThreeNumbers.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\obj\Debug\net10.0\refint\WithThreeNumbers.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\obj\Debug\net10.0\WithThreeNumbers.pdb
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\obj\Debug\net10.0\WithThreeNumbers.genruntimeconfig.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\WithThreeNumbers\obj\Debug\net10.0\ref\WithThreeNumbers.dll

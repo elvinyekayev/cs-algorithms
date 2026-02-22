@@ -1,0 +1,15 @@
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\bin\Debug\net10.0\9_AverageOfFourNumbers.exe
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\bin\Debug\net10.0\9_AverageOfFourNumbers.deps.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\bin\Debug\net10.0\9_AverageOfFourNumbers.runtimeconfig.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\bin\Debug\net10.0\9_AverageOfFourNumbers.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\bin\Debug\net10.0\9_AverageOfFourNumbers.pdb
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\obj\Debug\net10.0\9_AverageOfFourNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\obj\Debug\net10.0\9_AverageOfFourNumbers.AssemblyInfoInputs.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\obj\Debug\net10.0\9_AverageOfFourNumbers.AssemblyInfo.cs
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\obj\Debug\net10.0\9_AverageOfFourNumbers.csproj.CoreCompileInputs.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\obj\Debug\net10.0\9_AverageOfFourNumbers.sourcelink.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\obj\Debug\net10.0\9_AverageOfFourNumbers.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\obj\Debug\net10.0\refint\9_AverageOfFourNumbers.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\obj\Debug\net10.0\9_AverageOfFourNumbers.pdb
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\obj\Debug\net10.0\9_AverageOfFourNumbers.genruntimeconfig.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\9_AverageOfFourNumbers\obj\Debug\net10.0\ref\9_AverageOfFourNumbers.dll
