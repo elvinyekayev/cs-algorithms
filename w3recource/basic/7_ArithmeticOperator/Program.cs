@@ -16,9 +16,9 @@ Expected Output:
 
 
 Console.WriteLine("Input the first number:");
-int firstNum = int.Parse(Console.ReadLine());
+int firstNum = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input the second number:");
-int secondNum = int.Parse(Console.ReadLine());
+int secondNum = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine($"{firstNum} + {secondNum} = {firstNum + secondNum}");
 Console.WriteLine($"{firstNum} - {secondNum} = {firstNum - secondNum}");

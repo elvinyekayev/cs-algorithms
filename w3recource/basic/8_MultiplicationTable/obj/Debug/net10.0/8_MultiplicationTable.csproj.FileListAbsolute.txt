@@ -1,0 +1,15 @@
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\bin\Debug\net10.0\8_MultiplicationTable.exe
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\bin\Debug\net10.0\8_MultiplicationTable.deps.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\bin\Debug\net10.0\8_MultiplicationTable.runtimeconfig.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\bin\Debug\net10.0\8_MultiplicationTable.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\bin\Debug\net10.0\8_MultiplicationTable.pdb
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\obj\Debug\net10.0\8_MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\obj\Debug\net10.0\8_MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\obj\Debug\net10.0\8_MultiplicationTable.AssemblyInfo.cs
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\obj\Debug\net10.0\8_MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\obj\Debug\net10.0\8_MultiplicationTable.sourcelink.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\obj\Debug\net10.0\8_MultiplicationTable.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\obj\Debug\net10.0\refint\8_MultiplicationTable.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\obj\Debug\net10.0\8_MultiplicationTable.pdb
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\obj\Debug\net10.0\8_MultiplicationTable.genruntimeconfig.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\8_MultiplicationTable\obj\Debug\net10.0\ref\8_MultiplicationTable.dll
