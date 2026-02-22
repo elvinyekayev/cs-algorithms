@@ -1,0 +1,15 @@
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\bin\Debug\net10.0\7_ArithmeticOperator.exe
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\bin\Debug\net10.0\7_ArithmeticOperator.deps.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\bin\Debug\net10.0\7_ArithmeticOperator.runtimeconfig.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\bin\Debug\net10.0\7_ArithmeticOperator.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\bin\Debug\net10.0\7_ArithmeticOperator.pdb
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\obj\Debug\net10.0\7_ArithmeticOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\obj\Debug\net10.0\7_ArithmeticOperator.AssemblyInfoInputs.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\obj\Debug\net10.0\7_ArithmeticOperator.AssemblyInfo.cs
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\obj\Debug\net10.0\7_ArithmeticOperator.csproj.CoreCompileInputs.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\obj\Debug\net10.0\7_ArithmeticOperator.sourcelink.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\obj\Debug\net10.0\7_ArithmeticOperator.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\obj\Debug\net10.0\refint\7_ArithmeticOperator.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\obj\Debug\net10.0\7_ArithmeticOperator.pdb
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\obj\Debug\net10.0\7_ArithmeticOperator.genruntimeconfig.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\7_ArithmeticOperator\obj\Debug\net10.0\ref\7_ArithmeticOperator.dll

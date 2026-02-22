@@ -1,0 +1,15 @@
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\bin\Debug\net10.0\6_MultipyTwoNumbers.exe
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\bin\Debug\net10.0\6_MultipyTwoNumbers.deps.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\bin\Debug\net10.0\6_MultipyTwoNumbers.runtimeconfig.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\bin\Debug\net10.0\6_MultipyTwoNumbers.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\bin\Debug\net10.0\6_MultipyTwoNumbers.pdb
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\obj\Debug\net10.0\6_MultipyTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\obj\Debug\net10.0\6_MultipyTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\obj\Debug\net10.0\6_MultipyTwoNumbers.AssemblyInfo.cs
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\obj\Debug\net10.0\6_MultipyTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\obj\Debug\net10.0\6_MultipyTwoNumbers.sourcelink.json
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\obj\Debug\net10.0\6_MultipyTwoNumbers.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\obj\Debug\net10.0\refint\6_MultipyTwoNumbers.dll
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\obj\Debug\net10.0\6_MultipyTwoNumbers.pdb
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\obj\Debug\net10.0\6_MultipyTwoNumbers.genruntimeconfig.cache
+C:\Users\USER\workspace\myWorkspace\project_in_progress\cs-algorithms\w3recource\basic\6_MultipyTwoNumbers\obj\Debug\net10.0\ref\6_MultipyTwoNumbers.dll
